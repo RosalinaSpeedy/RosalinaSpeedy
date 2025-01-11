@@ -23,7 +23,7 @@
   + <b>Twoot - a data science AI project for classifying 5 different species of birds</b>
     + [Twoot](https://github.com/RosalinaSpeedy/Twoot)
 - <b>Introductory programming projects:</b>
-  - <b>Brexit Bob - a p5.js-based platforming game</b>
+  - <b>Game project - a p5.js-based platforming game</b>
     - [Brexit Bob](https://)
   - <b>Java World Cup - a Java-based football tournament simulator</b>
     - [Java world cup](https://)
