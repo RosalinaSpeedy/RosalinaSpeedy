@@ -21,7 +21,7 @@
     * [EventEnthusiast](https://github.com/RosalinaSpeedy/portfolio_project)
 - <b>Artificial intelligence projects:</b>
   + <b>Twoot - a data science AI project for classifying 5 different species of birds</b>
-    + [Twoot](https://)  
+    + [Twoot](https://github.com/RosalinaSpeedy/Twoot)
 - <b>Introductory programming projects:</b>
   - <b>Brexit Bob - a p5.js-based platforming game</b>
     - [Brexit Bob](https://)
