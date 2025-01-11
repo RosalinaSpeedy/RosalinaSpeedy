@@ -18,7 +18,7 @@
   * <b>Forum web application using Node and Express.js</b>
     * [Forum app](https://)
   * <b>EventEnthusiast - an event scheduling and ticketing web application using Node and Express.js with HERE maps API</b>
-    * [EventEnthusiast](https://)
+    * [EventEnthusiast](https://github.com/RosalinaSpeedy/portfolio_project)
 - <b>Artificial intelligence projects:</b>
   + <b>Twoot - a data science AI project for classifying 5 different species of birds</b>
     + [Twoot](https://)  
