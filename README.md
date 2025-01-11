@@ -46,5 +46,5 @@
     - [Grid game](https://)
 
 <h2>LinkedIn:</h2>
-[<img align="left" alt="BenCraddock | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/ben-craddock-762281335/)
+<img align="left" alt="BenCraddock | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[linkedin](https://www.linkedin.com/in/ben-craddock-762281335)
