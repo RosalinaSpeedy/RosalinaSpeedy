@@ -2,9 +2,6 @@
 
 - 🔭 I’m currently working on S.E.E.K - an AI-powered mobile application to help users through addiction recovery
 - 🌱 I’m currently learning REACT Native and Machine Learning with Tensorflow
-- 👯 I’m looking to collaborate on anything interesting that doesn't involve touching a Mac
-- 🤔 I’m looking for help with potential game dev projects in the future! :)
-- 💬 Ask me about my plans for game projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: an octopus has three hearts and moray eels have two sets of jaws
 
