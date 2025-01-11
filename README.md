@@ -14,7 +14,7 @@
     - [Drawing app](https://github.com/RosalinaSpeedy/DrawingApp) 
 - <b>Web development projects:</b>
   - <b>Front end Portfolio Project</b>
-    - [Portfolio page](https://)
+    - [Portfolio page](https://github.com/RosalinaSpeedy/Portfolio_Page)
   * <b>Forum web application using Node and Express.js</b>
     * [Forum app](https://)
   * <b>EventEnthusiast - an event scheduling and ticketing web application using Node and Express.js with HERE maps API</b>
