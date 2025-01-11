@@ -24,11 +24,11 @@
     + [Twoot](https://github.com/RosalinaSpeedy/Twoot)
 - <b>Introductory programming projects:</b>
   - <b>Game project - a p5.js-based platforming game</b>
-    - [Brexit Bob](https://)
+    - [Brexit Bob](https://github.com/RosalinaSpeedy/GameProject)
   - <b>Java World Cup - a Java-based football tournament simulator</b>
-    - [Java world cup](https://)
+    - [Java world cup](https://github.com/RosalinaSpeedy/JavaWorldCup)
   - <b>Hangman - a Java-based hangman game</b>
-    - [Hangman](https://)  
+    - [Hangman](https://github.com/RosalinaSpeedy/Hangman) 
 - <b>Algorithmic thinking:<b>
   - <b>Sudoku - a sudoku solving algorithm</b>
     - [Sudoku](https://)
