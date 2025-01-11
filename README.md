@@ -11,7 +11,7 @@
   - <b>Bookit - University room booking and scheduling system</b>
     - [Bookit](https://github.com/jbrun001/roombooking)
   - <b>Drawing App</b>
-    - [Drawing app](https://)  
+    - [Drawing app](https://github.com/RosalinaSpeedy/DrawingApp) 
 - <b>Web development projects:</b>
   - <b>Front end Portfolio Project</b>
     - [Portfolio page](https://)
