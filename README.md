@@ -16,7 +16,7 @@
   - <b>Front end Portfolio Project</b>
     - [Portfolio page](https://github.com/RosalinaSpeedy/Portfolio_Page)
   * <b>Forum web application using Node and Express.js</b>
-    * [Forum app](https://)
+    * [Forum app](https://github.com/RosalinaSpeedy/Forum_App)
   * <b>EventEnthusiast - an event scheduling and ticketing web application using Node and Express.js with HERE maps API</b>
     * [EventEnthusiast](https://github.com/RosalinaSpeedy/portfolio_project)
 - <b>Artificial intelligence projects:</b>
