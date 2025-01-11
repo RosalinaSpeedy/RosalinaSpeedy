@@ -9,7 +9,7 @@
 
 - <b>Software development projects:</b>  
   - <b>Bookit - University room booking and scheduling system</b>
-    - [Bookit](https://)
+    - [Bookit](https://github.com/jbrun001/roombooking)
   - <b>Drawing App</b>
     - [Drawing app](https://)  
 - <b>Web development projects:</b>
