@@ -31,14 +31,14 @@
     - [Hangman](https://github.com/RosalinaSpeedy/Hangman) 
 - <b>Algorithmic thinking:<b>
   - <b>Sudoku - a sudoku solving algorithm</b>
-    - [Sudoku](https://)
-  - <b>Heaps - a Java-based heaps solving system</b>
-    - [Heaps](https://)
+    - [Sudoku](https://github.com/RosalinaSpeedy/sudoku)
+  - <b>Sorting algorithms - a Java demonstration of sorting algorithms
+    - [Sorting algorithms](https://github.com/RosalinaSpeedy/SortingAlgorithms)
   - <b>Graphs - a Java-based graphs solving system</b>
-    - [Graphs](https://)
+    - [Graphs](https://github.com/RosalinaSpeedy/Graphs)
 - <b>Other projects:</b>
   - <b> Cells system - a p5.js 3D animation
-    - [Cells system](https://)
+    - [Cells system](https://github.com/RosalinaSpeedy/CellsSystem)
   - <b> Grid game - a barebones implementation for a farming game in p5.js
     - [Grid game](https://)
 
