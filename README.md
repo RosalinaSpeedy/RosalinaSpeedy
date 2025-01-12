@@ -39,8 +39,6 @@
 - <b>Other projects:</b>
   - <b> Cells system - a p5.js 3D animation
     - [Cells system](https://github.com/RosalinaSpeedy/CellsSystem)
-  - <b> Grid game - a barebones implementation for a farming game in p5.js
-    - [Grid game](https://)
 
 <h2>LinkedIn:</h2>
 <img align="left" alt="BenCraddock | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
