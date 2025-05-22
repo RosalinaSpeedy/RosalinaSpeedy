@@ -5,6 +5,20 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: an octopus has three hearts and moray eels have two sets of jaws
 
+<h1>FEATURED FROJECT:</h1>
+
+![SEEK_LOGO](https://github.com/user-attachments/assets/5d9ed8f5-d78e-49bb-b424-8fb8428fb898) 
+
+**S.E.E.K: SOBER, EMPOWERED, ENRICHED, KNOWING**
+
+A comprehensive mobile app to aid addicts in recovery - leveraging personal, private, offline tools such as tracking streaks, journaling and emotional logs as well as online tools like a forum and external self-help resources.
+
+S.E.E.K also modernises the recoery process - making use of **Junko** - the relapse-prevention plan generation AI - to help make recovery work for **you**, and not the other way around!
+
+Check it out here:
+https://github.com/RosalinaSpeedy/S.E.E.K
+
+
 <h2>My past projects:</h2>
 
 - <b>Software development projects:</b>  
@@ -29,13 +43,6 @@
     - [Java world cup](https://github.com/RosalinaSpeedy/JavaWorldCup)
   - <b>Hangman - a Java-based hangman game</b>
     - [Hangman](https://github.com/RosalinaSpeedy/Hangman) 
-- <b>Algorithmic thinking:<b>
-  - <b>Sudoku - a sudoku solving algorithm</b>
-    - [Sudoku](https://github.com/RosalinaSpeedy/sudoku)
-  - <b>Sorting algorithms - a Java demonstration of sorting algorithms
-    - [Sorting algorithms](https://github.com/RosalinaSpeedy/SortingAlgorithms)
-  - <b>Graphs - a Java-based graphs solving system</b>
-    - [Graphs](https://github.com/RosalinaSpeedy/Graphs)
 - <b>Other projects:</b>
   - <b> Cells system - a p5.js 3D animation
     - [Cells system](https://github.com/RosalinaSpeedy/CellsSystem)
