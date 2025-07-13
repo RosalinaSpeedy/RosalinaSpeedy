@@ -1,4 +1,4 @@
-<h1>Heyo, I'm Ben. I'm a 3rd year student at <a href="https://www.gold.ac.uk/ug/bsc-computer-science/">Goldsmiths: University of London</a></h1>
+<h1>Heyo, I'm Ben. I recently finished my 3rd year at <a href="https://www.gold.ac.uk/ug/bsc-computer-science/">Goldsmiths: University of London</a></h1>
 
 - 🔭 I’m currently working on S.E.E.K - an AI-powered mobile application to help users through addiction recovery
 - 🌱 I’m currently learning REACT Native and Machine Learning with Tensorflow
