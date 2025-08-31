@@ -1,7 +1,8 @@
 <h1>Heyo, I'm Ben. I recently finished my 3rd year at <a href="https://www.gold.ac.uk/ug/bsc-computer-science/">Goldsmiths: University of London</a></h1>
 
-- 🔭 I’m currently working on S.E.E.K - an AI-powered mobile application to help users through addiction recovery
-- 🌱 I’m currently learning REACT Native and Machine Learning with Tensorflow
+- 😀 I'm currently working on CementMixx - an all-inclusive MP3 player app that allows for dynamic metadata adjustment within the app itself
+- 🔭 My most recent project was S.E.E.K - an AI-powered mobile application to help users through addiction recovery
+- 🌱 I’m currently learning REACT Native and Machine Learning with Tensorflow - been learning this a while now
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: an octopus has three hearts and moray eels have two sets of jaws
 
